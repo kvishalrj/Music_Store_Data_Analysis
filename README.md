@@ -1,5 +1,5 @@
 ![Badge](https://img.shields.io/badge/Project--19-Global--SuperStore-blue)
-# Global SuperStore Sales💻
+# Music Store Data Analysis💻
 ### Hey, I am [**Vishal**](https://www.linkedin.com/in/vishal-kumar-62146b230/) 🙂 
 ### This is  my 19th live Project.
 ### I made this project using ![Ms Excel and SQL](https://img.shields.io/badge/Excel%20%26-SQL%20-blue)
