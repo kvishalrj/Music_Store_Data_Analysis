@@ -1,4 +1,4 @@
-![Badge](https://img.shields.io/badge/Project--19-Global--SuperStore-blue)
+![Badge](https://img.shields.io/badge/Project--19-Music--Store-blue)
 # Music Store Data Analysis💻
 ### Hey, I am [**Vishal**](https://www.linkedin.com/in/vishal-kumar-62146b230/) 🙂 
 ### This is  my 19th live Project.
